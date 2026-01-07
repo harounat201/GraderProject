@@ -1,0 +1,3884 @@
+{
+  "sheets": {
+    "Scoring Worksheet": {
+      "cells": {
+        "B2": {
+          "value": "Assignment 4: Data Visualization",
+          "formula": null,
+          "style": {
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "B4": {
+          "value": "For your information only. Shows how your work will be scored.",
+          "formula": null,
+          "style": {
+            "font": {
+              "italic": true
+            }
+          }
+        },
+        "B6": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "C6": {
+          "value": "Task/Technique",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D6": {
+          "value": "Possible Points",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E6": {
+          "value": "Points Deducted",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F6": {
+          "value": "Scorer Notes",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D7": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "E7": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "F7": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "B8": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C8": {
+          "value": "Task 1: Manipulate Series & Scale Options",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D8": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "border": {
+              "bottom": "thin"
+            }
+          }
+        },
+        "E8": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "border": {
+              "bottom": "thin"
+            }
+          }
+        },
+        "F8": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "border": {
+              "bottom": "thin"
+            }
+          }
+        },
+        "B9": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C9": {
+          "value": "    - Only North, South, East, and West data shown.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D9": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E9": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F9": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B10": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C10": {
+          "value": "    - Value labels at top of column markers.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D10": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E10": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F10": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B11": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C11": {
+          "value": "    - Y axis Major Unit is $20 and maximum value is $60.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D11": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E11": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F11": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B12": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C12": {
+          "value": "    - Legend moved to top; plot area expanded to right.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D12": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E12": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F12": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B13": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C13": {
+          "value": "    - \"Q1 Sales\" legend changed to \"Quarter 1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D13": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E13": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F13": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B14": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C14": {
+          "value": "       (millions)\"",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D14": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E14": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F14": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B15": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C15": {
+          "value": "    - Q1 and Q2 data markers reversed in order.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D15": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E15": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F15": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B16": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C16": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D16": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E16": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F16": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B17": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C17": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D17": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E17": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F17": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B18": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C18": {
+          "value": "Task 2: Create a Chart with 2 Value Axes",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D18": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E18": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F18": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B19": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C19": {
+          "value": "    - Two Y axes present in the chart and the chart title ",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D19": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E19": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F19": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B20": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C20": {
+          "value": "      reads \"Data Charted with Two Value Axes\"",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D20": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E20": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F20": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B21": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C21": {
+          "value": "    - Left-hand Y axis scale labeled and ranges from",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D21": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E21": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F21": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B22": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C22": {
+          "value": "      0 to 3,000,000 with major units set to 500000.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D22": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E22": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F22": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B23": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C23": {
+          "value": "    - Left-hand Y axis scale labeled and ranges from",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D23": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E23": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F23": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B24": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C24": {
+          "value": "      0% to 4% in 1% increments.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D24": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E24": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F24": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B25": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C25": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D25": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E25": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F25": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B26": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C26": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D26": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E26": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F26": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B27": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C27": {
+          "value": "Task 3: Know the Three Ways to Chart Missing Data",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D27": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E27": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F27": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B28": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C28": {
+          "value": "    - One chart shows missing values plotted as zeros.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D28": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E28": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F28": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B29": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C29": {
+          "value": "    - One chart shows missing values interpolated.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D29": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E29": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F29": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B30": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C30": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D30": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E30": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F30": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B31": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C31": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D31": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E31": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F31": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B32": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C32": {
+          "value": "Task 4: Create Combination Charts",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D32": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E32": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F32": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B33": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C33": {
+          "value": "    - Left chart shows Q4 sales as a column type and",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D33": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E33": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F33": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B34": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C34": {
+          "value": "      the rest of the quarters' data as line types.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D34": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E34": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F34": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B35": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C35": {
+          "value": "    - Right chart shows Q4 sales as a column type,",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D35": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E35": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F35": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B36": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C36": {
+          "value": "      Q3 sales as an area type, and the remaining",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D36": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E36": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F36": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B37": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C37": {
+          "value": "      two quarters as line types.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D37": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E37": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F37": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B38": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C38": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D38": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E38": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F38": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B39": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C39": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D39": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E39": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F39": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B40": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C40": {
+          "value": "Task 5: Make a Chart Title Dynamic",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D40": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E40": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F40": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B41": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C41": {
+          "value": "    - A worksheet cell holds a concatenated sentence.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D41": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E41": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F41": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B42": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C42": {
+          "value": "    - The concatenation uses values entered in other",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D42": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E42": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F42": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B43": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C43": {
+          "value": "      cells in the same worksheet.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D43": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E43": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F43": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B44": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C44": {
+          "value": "    - The concatenated sentence is used as a dynamic",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D44": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E44": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F44": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B45": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C45": {
+          "value": "      title for the chart in the worksheet.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D45": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E45": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F45": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B46": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C46": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D46": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E46": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F46": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B47": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C47": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D47": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E47": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F47": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B48": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C48": {
+          "value": "Task 6: Use the XY (Scatter) Chart Type",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D48": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E48": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F48": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B49": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C49": {
+          "value": "    - Chart changed correctly to the XY type.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D49": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E49": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F49": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B50": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C50": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D50": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E50": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F50": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B51": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C51": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D51": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E51": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F51": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B52": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C52": {
+          "value": "Task 7: Use Sparkine Chart Graphics",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D52": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E52": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F52": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B53": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C53": {
+          "value": "     - Line sparkline chart above 1st column.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D53": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E53": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F53": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B54": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C54": {
+          "value": "     - Column sparkline chart above 2nd column.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D54": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E54": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F54": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B55": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C55": {
+          "value": "      - Win/Loss sparkline chart above 3rd column.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D55": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E55": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F55": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B56": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C56": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D56": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E56": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F56": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B57": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C57": {
+          "value": "Task 8: Make a Table More Readable",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D57": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E57": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F57": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B58": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C58": {
+          "value": "      - Shading, bolding, and cell borders removed.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D58": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E58": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F58": {
+          "value": "Graders' note: Outer border OK.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B59": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C59": {
+          "value": "      - Currency and decimal places removed.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D59": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E59": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F59": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B60": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C60": {
+          "value": "     - Specified separator lines added.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D60": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E60": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F60": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B61": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C61": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D61": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E61": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F61": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B62": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C62": {
+          "value": "Task 9: Make a Chart More Readable",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D62": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E62": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F62": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B63": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C63": {
+          "value": "     - Chart type changed to monochrome 2-D column.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D63": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E63": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F63": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B64": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C64": {
+          "value": "     - Currency and decimal places removed.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D64": {
+          "value": "2",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E64": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F64": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B65": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C65": {
+          "value": "     - Legend moved below X axis; legend and chart resized",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D65": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E65": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F65": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B66": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C66": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D66": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E66": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F66": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B67": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C67": {
+          "value": "Task 10: Change a Chart Type to make it Readable",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D67": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E67": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F67": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B68": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C68": {
+          "value": "     - 3D pie changed to column chart.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D68": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E68": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F68": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B69": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C69": {
+          "value": "     - Y axis is 0.0% to 40.0% in 10% increments.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D69": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E69": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F69": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B70": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C70": {
+          "value": "     - Data values appear at top of columns.",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "D70": {
+          "value": "1",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E70": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F70": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            }
+          }
+        },
+        "B71": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            }
+          }
+        },
+        "C71": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "border": {
+              "bottom": "thin"
+            }
+          }
+        },
+        "D71": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "3"
+            },
+            "border": {
+              "bottom": "thin"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E71": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "0"
+            },
+            "border": {
+              "bottom": "thin"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "F71": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "fill": {
+              "pattern": "solid",
+              "color": "6"
+            },
+            "border": {
+              "bottom": "thin"
+            }
+          }
+        },
+        "B72": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "C72": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "D72": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "E72": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "F72": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "bottom": "medium"
+            }
+          }
+        },
+        "C73": {
+          "value": "Possible/Deducted Points:",
+          "formula": null,
+          "style": {
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "D73": {
+          "value": "35",
+          "formula": "SUM(D9:D71)",
+          "style": {
+            "border": {
+              "left": "medium",
+              "top": "medium",
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E73": {
+          "value": "0",
+          "formula": "SUM(E8:E71)",
+          "style": {
+            "border": {
+              "right": "medium",
+              "top": "medium",
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "C74": {
+          "value": "Late Points (if any):",
+          "formula": null,
+          "style": {
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E74": {
+          "value": "",
+          "formula": null,
+          "style": {
+            "border": {
+              "left": "medium",
+              "right": "medium",
+              "top": "medium",
+              "bottom": "medium"
+            }
+          }
+        },
+        "F74": {
+          "value": " 2 points per late day deducted.",
+          "formula": null
+        },
+        "C75": {
+          "value": "Points Earned:",
+          "formula": null,
+          "style": {
+            "font": {
+              "bold": true
+            }
+          }
+        },
+        "E75": {
+          "value": "35",
+          "formula": "D73-(E73+E74)",
+          "style": {
+            "border": {
+              "left": "medium",
+              "right": "medium",
+              "top": "medium",
+              "bottom": "medium"
+            },
+            "font": {
+              "bold": true
+            }
+          }
+        }
+      },
+      "metadata": {
+        "validations": [],
+        "conditional_formatting": [],
+        "drawings": []
+      }
+    }
+  }
+}

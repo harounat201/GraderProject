@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "name": "Task 1: Sheet Headers",
+            "sheet": "T 1 - VLOOKUP()",
+            "points": 20,
+            "criteria": [
+                {
+                    "type": "value_match",
+                    "cell": "B2",
+                    "expected": "Data Management",
+                    "points": 10
+                },
+                {
+                    "type": "value_match",
+                    "cell": "B3",
+                    "expected": "Task 1 - VLOOKUP() : Complete the Work Records",
+                    "points": 10
+                }
+            ]
+        },
+        {
+            "name": "Task 1: Formulas",
+            "sheet": "T 1 - VLOOKUP()",
+            "points": 80,
+            "criteria": [
+                {
+                    "type": "formula_match",
+                    "cell": "I10",
+                    "expected": "VLOOKUP",
+                    "points": 40,
+                    "feedback_on_fail": "Missing VLOOKUP formula in Hourly Rate (I10)"
+                },
+                {
+                    "type": "exists",
+                    "cell": "J10",
+                    "expected": "",
+                    "points": 40,
+                    "feedback_on_fail": "Missing formula in Total Pay (J10)"
+                }
+            ]
+        }
+    ]
+}
