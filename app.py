@@ -25,7 +25,7 @@ if 'manual_mode' not in st.session_state:
 if 'grading_strategy' not in st.session_state:
     st.session_state.grading_strategy = "holistic"
 
-st.title("📝 Assignment Autograder PROMPT Playground")
+st.title("📝 Assignment Autograder Workflow Prototype")
 
 # --- STEP 1: GRADING CONTEXT ---
 if st.session_state.grading_step == 1:
