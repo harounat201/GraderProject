@@ -3,10 +3,14 @@ from google import genai
 import os
 import json
 
-# Configure API Key
-# In a real app, use os.environ.get('GEMINI_API_KEY')
-# For this session, we hardcode the provided key
-client = genai.Client(api_key="AIzaSyDTT8hV7mi2cB7sYaZMQF7IeMZmOvn9a3A")
+# Configure API Key securely via environment variable
+api_key = os.environ.get('GEMINI_API_KEY')
+if not api_key:
+    # Use a placeholder or raise an error in a production environment
+    # For Streamlit, this will prompt the user to configure secrets
+    api_key = "MISSING_API_KEY"
+
+client = genai.Client(api_key=api_key)
 
 ATOMIC_RUBRIC_PROMPT = """
 You are an expert Education Consultant specializing in Technical & Data Assessment.
